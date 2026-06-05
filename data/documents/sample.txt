@@ -1,0 +1,6 @@
+This is a sample confidential business document.
+It contains information about vendor contracts and penalty clauses.
+The penalty clause states that failure to deliver by the agreed date results in a 10 percent fee.
+The vendor must notify the client 48 hours in advance of any delay.
+Payment terms are net 30 days from invoice date.
+Any disputes must be resolved within 60 days through arbitration.
