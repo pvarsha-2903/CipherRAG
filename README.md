@@ -47,18 +47,23 @@ Query → Embed → Retrieve → Decrypt → LLM → Answer
 ## Project Status
 
 | Module | Description | Status |
-| Module 1 | RAG — Concepts & First Principles | Complete |
-| Module 2 | Cryptography — Concepts & First Principles | Complete |
-| Module 3 | CipherRAG Architecture Design | Complete |
-| Module 4 | Document Loader + Chunker | Complete |
-| Module 5 | AES-256-GCM Encryption + Key Manager | Complete |
+|--------|-------------|--------|
+| Module 1 | RAG — Concepts & First Principles | ✅ Complete |
+| Module 2 | Cryptography — Concepts & First Principles | ✅ Complete |
+| Module 3 | CipherRAG Architecture Design | ✅ Complete |
+| Module 4 | Document Loader + Chunker | ✅ Complete |
+| Module 5 | AES-256-GCM Encryption + Key Manager | ✅ Complete |
 | Module 6 | Embeddings | 🔄 In Progress |
 | Module 7 | Vector Store | ⏳ Upcoming |
 | Module 8 | Retrieval | ⏳ Upcoming |
 | Module 9 | LLM Integration | ⏳ Upcoming |
 
-Note -> Modules 1–3 are concept and architecture modules. 
+> Modules 1–3 are concept and architecture modules.
 > Full notes and documentation available in the `/docs` folder.
+
+---
+
+---
 
 ---
 
@@ -75,5 +80,5 @@ This project is built on the following academic work:
 
 ## Author
 
-P. Varsha 
-Independent Research Project
+**P. Varsha**
+3rd Year Undergraduate — Independent Research Project
